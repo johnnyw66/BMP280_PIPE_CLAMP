@@ -1,0 +1,10 @@
+# --- Wi-Fi Credentials ---
+CIRCUITPY_WIFI_SSID = "******"
+CIRCUITPY_WIFI_PASSWORD = "*******"
+
+MQTT_BROKER = "192.168.2.107"
+
+KITCHEN_INLET_TOPIC="home/plumbing/downstairs_inlet_temp"
+BATHROOM_INLET_TOPIC="home/plumbing/bathroom_inlet_temp"
+
+
